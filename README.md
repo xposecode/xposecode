@@ -1,5 +1,27 @@
 # 💫 About Me:
-I am currently looking for Software engineer roles.<br>
+👋 Welcome!
+I’m Sahilkumar Katiriya, a passionate Software Developer Engineer with a mission to craft innovative and impactful software solutions. My expertise lies in blending creativity with technical precision to solve complex challenges and deliver exceptional user experiences.
+
+🌟 Who I Am
+With 2.7 years of experience, I’ve had the privilege of contributing to IT domain, working on projects that range from scalable web applications, AI-driven analytics tools to DevOps work. Every line of code I write reflects my dedication to performance, scalability, and maintainability.
+
+🔧 Tech Stack
+
+Languages:  Python, JavaScript, C++
+Frameworks & Libraries: Django, Reactjs
+DevOps & Tools: Docker, Kubernetes, GitHub Actions
+Cloud: Azure
+🚀 Highlights
+
+🌍 Built  full-stack web applications leveraging Python, Angular, and Django, boosting system performance
+and user engagement.
+📈 Optimized 25% improvement in response time by designing scalable APIs.
+🔗 Check out my GitHub repos.
+💡 What Drives Me
+I thrive in dynamic environments where collaboration and creativity lead to groundbreaking results. Staying ahead of the curve with emerging technologies is not just a goal but a habit. Whether building from scratch, optimizing existing systems, or contributing to open-source, I’m committed to making an impact.
+
+📬 Let’s Connect!
+Feel free to reach out or explore my repositories to see what I’ve been up to. Together, we can innovate, create, and make technology better for everyone.<br>
 
 
 # 💻 Tech Stack:
