@@ -8,9 +8,13 @@ With 2.7 years of experience, I’ve had the privilege of contributing to IT dom
 🔧 Tech Stack
 
 Languages:  Python, JavaScript, C++
+
 Frameworks & Libraries: Django, Reactjs
+
 DevOps & Tools: Docker, Kubernetes, GitHub Actions
-Cloud: Azure
+
+Cloud: Microsoft Azure
+
 🚀 Highlights
 
 🌍 Built  full-stack web applications leveraging Python, Angular, and Django, boosting system performance
