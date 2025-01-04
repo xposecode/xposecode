@@ -15,8 +15,11 @@ Cloud: Azure
 
 🌍 Built  full-stack web applications leveraging Python, Angular, and Django, boosting system performance
 and user engagement.
+
 📈 Optimized 25% improvement in response time by designing scalable APIs.
+
 🔗 Check out my GitHub repos.
+
 💡 What Drives Me
 I thrive in dynamic environments where collaboration and creativity lead to groundbreaking results. Staying ahead of the curve with emerging technologies is not just a goal but a habit. Whether building from scratch, optimizing existing systems, or contributing to open-source, I’m committed to making an impact.
 
